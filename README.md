@@ -1,2 +1,2 @@
-# merge-conflicts
+# Merge Conflicts!
 Merge Conflicts Activity
